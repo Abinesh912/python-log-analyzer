@@ -1,0 +1,9 @@
+
+2026-10-19 09:00:00 INFO Application started
+2026-10-19 09:01:12 INFO Database connection successful
+2026-10-19 09:02:30 WARNING High memory usage detected
+2026-10-19 09:03:15 ERROR Database connection failed
+2026-10-19 09:03:20 ERROR Database connection failed
+2026-10-19 09:04:00 INFO Retry attempt started
+2026-10-19 09:05:10 WARNING Response time is high
+2026-10-19 09:06:00 ERROR Request processing failed
